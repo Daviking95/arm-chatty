@@ -1,4 +1,11 @@
 
+- Instruction: How To Use
+  - Create a Flutter project on your machine
+  - Delete all files and folder inside your lib folder in your project
+  - Copy all the files and folders above and place them in your lib folder
+  - Run your app
+
+
 1. How long did you spend on the coding test?
     - It took about 8 hours to complete this coding test, although I couldn't add the group chat feature
 
